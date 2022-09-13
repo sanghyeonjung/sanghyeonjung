@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=roy1109)](https://solved.ac/roy1109/)
 
 ## Status
-![roy1109's github stats](https://github-readme-stats.vercel.app/api?username=roy1109&show_icons=true)
-[![roy1109's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=roy1109&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/roy1109)
+![sanghyeonjung's github stats](https://github-readme-stats.vercel.app/api?username=sanghyeonjung&show_icons=true)
+[![sanghyeonjung's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghyeonjung&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sanghyeonjung)
