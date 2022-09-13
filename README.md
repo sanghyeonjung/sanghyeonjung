@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Language
+# Algorithm
+![solved.ac](http://mazandi.herokuapp.com/api?handle=roy1109&theme=dark")
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=roy1109)](https://solved.ac/roy1109/)
