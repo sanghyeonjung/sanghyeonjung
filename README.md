@@ -1,4 +1,4 @@
-### Hi there 👋
+### 고등학생 안드로이드 개발자 정상현입니다.
 
 <!--
 **sanghyeonjung/sanghyeonjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
