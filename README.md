@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Language
+![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Java&logoColor=white)
 # Algorithm
 ![solved.ac](http://mazandi.herokuapp.com/api?handle=roy1109&theme=dark")
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=roy1109)](https://solved.ac/roy1109/)
